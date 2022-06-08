@@ -26,3 +26,7 @@ https://www.dukelearntoprogram.com//downloads/archives/courserajava.jar
   
 Files:
 https://www.dukelearntoprogram.com/course4/files.php
+  
+All of these including ensuring you have your relevant java jdk environment set up with the relevant compiler. To configure your relevant java jdk you may use the following steps for linux:
+  
+https://itsfoss.com/install-java-ubuntu/
